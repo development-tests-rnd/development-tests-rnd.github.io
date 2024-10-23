@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+       <title>Eyewear Industry News RSS Feed</title>
+       <link>https://development-tests-rnd.github.io</link>
+       <description>A curated feed of the latest articles in the eyewear and fashion industry</description>
+       <language>en-us</language>
+       <lastBuildDate>Tue, 22 Oct 2024 12:00:00 +0000</lastBuildDate>
+
+       <!-- First Article -->
+       <item>
+           <title><![CDATA[Check New content - Ray-Ban Maker Achieves Founder's Vision with $100 Billion Market Value]]></title>
+           <link>https://us.fashionnetwork.com/news/Ray-ban-maker-tops-100-billion-value-to-hit-founder-s-last-goal,1673536.html</link>
+           <description>EssilorLuxottica SA, the global eyewear leader, achieved a market value of $100 billion, fulfilling founder Leonardo Del Vecchio's vision. Since his passing in 2022, the company has thrived under Francesco Milleri, expanding its brand portfolio and collaborating with Meta Platforms on innovative smart glasses.</description>
+           <category>Business News</category>
+           <guid isPermaLink="true">https://us.fashionnetwork.com/news/Ray-ban-maker-tops-100-billion-value-to-hit-founder-s-last-goal,1673536.html</guid>
+           <pubDate>Tue, 22 Oct 2024 08:00:00 +0000</pubDate>
+       </item>
+
+       <!-- Second Article -->
+       <item>
+           <title><![CDATA[NW77th Unveils Vibrant Fall 2024 Eyewear Collection with Bold Designs]]></title>
+           <link>https://www.opticaljournal.com/nw77th-launches-fall-2024-collection/</link>
+           <description>NW77th's Fall 2024 collection introduces 17 vibrant eyewear models across five series, blending handcrafted surgical steel and custom acetate. Highlights include the Block Steel's metal frames and the Combination's unique designs. NW77th, a family-owned brand, continues its legacy of crafting high-quality eyewear for urban lifestyles.</description>
+           <category>Fashion Industry News</category>
+           <guid isPermaLink="true">https://www.opticaljournal.com/nw77th-launches-fall-2024-collection/</guid>
+           <pubDate>Tue, 22 Oct 2024 09:00:00 +0000</pubDate>
+       </item>
+
+       <!-- Third Article -->
+       <item>
+           <title><![CDATA[Revo Unveils Annika 3 Sunglass, Blending Performance and Elegance]]></title>
+           <link>https://www.opticaljournal.com/revo-launches-new-frame-in-collaboration-with-annika-sorenstam/</link>
+           <description>Revo has launched the Annika 3 sunglass, expanding its collaboration with golfer Annika Sorenstam. This new design combines performance and elegance, featuring NASA-based polarized lenses. A portion of sales supports the ANNIKA Foundation, empowering young women through golf. Available in various styles, it offers superior visual performance.</description>
+           <category>Fashion Eyewear</category>
+           <guid isPermaLink="true">https://www.opticaljournal.com/revo-launches-new-frame-in-collaboration-with-annika-sorenstam/</guid>
+           <pubDate>Tue, 22 Oct 2024 10:00:00 +0000</pubDate>
+       </item>
+
+       <!-- Fourth Article -->
+       <item>
+           <title><![CDATA[Top Sunglasses for Every Outdoor Adventure]]></title>
+           <link>https://www.outsideonline.com/outdoor-gear/clothing-apparel/best-sports-sunglasses/</link>
+           <description>This article reviews the best sunglasses for various outdoor activities, tested by a diverse team in Lake Tahoe. It highlights top picks like Bajio 12 South for overall use and Julbo Density for running. Each pair is evaluated for lens quality, fit, and durability, offering options for every need.</description>
+           <category>Outdoor Gears Guide</category>
+           <guid isPermaLink="true">https://www.outsideonline.com/outdoor-gear/clothing-apparel/best-sports-sunglasses/</guid>
+           <pubDate>Tue, 22 Oct 2024 11:00:00 +0000</pubDate>
+       </item>
+
+       <!-- Fifth Article -->
+       <item>
+           <title><![CDATA[**Roberto Cavalli Unveils Bold New Eyewear Collection with De Rigo**]]></title>
+           <link>https://www.trbusiness.com/regional-news/international/de-rigo-group-reveals-latest-eyewear-collection-from-roberto-cavalli/258932</link>
+           <description>De Rigo Group has launched five new Roberto Cavalli sunglasses styles, showcasing bold designs that blend fashion with art. These premium-quality frames feature unique symbols like the fang and iconic logos, emphasizing luxury and personality. The collection is available in select stores and online, reflecting innovation and excellence.</description>
+           <category>**Fashion Industry**</category>
+           <guid isPermaLink="true">https://www.trbusiness.com/regional-news/international/de-rigo-group-reveals-latest-eyewear-collection-from-roberto-cavalli/258932</guid>
+           <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
+       </item>
+
+       <!-- Sixth Article -->
+       <item>
+           <title><![CDATA[Smith Collaborates with Lisa Congdon for Vibrant Eyewear Collection]]></title>
+           <link>https://www.outdoorsportswire.com/bright-colors-big-glasses-the-new-smith-x-lisa-congdon-artist-series/</link>
+           <description>Smith collaborates with artist Lisa Congdon for a vibrant eyewear collection, featuring the Bobcat and Sway frames. Congdon's designs reflect her passion for art and cycling. Available exclusively in North America, these limited-edition glasses combine style and functionality, appealing to both fashion enthusiasts and active individuals.</description>
+           <category>Fashion and Design</category>
+           <guid isPermaLink="true">https://www.outdoorsportswire.com/bright-colors-big-glasses-the-new-smith-x-lisa-congdon-artist-series/</guid>
+           <pubDate>Tue, 22 Oct 2024 13:00:00 +0000</pubDate>
+       </item>
+
+   </channel>
+</rss>
